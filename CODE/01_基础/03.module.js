@@ -18,7 +18,7 @@
 *             相对路径使用.或..开头
 * */
 var md = require("./02.module");
-var math = require("./04.math");
+var math = require("./math");
 var fs = require("fs");
 
 // console.log(md);
